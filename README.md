@@ -495,4 +495,3 @@ menuju `buka_cabang`.
 
 **Jaka Permana Herawan**
 
-Repository: https://github.com/Jackhrwn/TMD_STRUKDAT
